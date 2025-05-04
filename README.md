@@ -1,1 +1,1 @@
-# sonarTestProject
+# demoProjectSonarQube
